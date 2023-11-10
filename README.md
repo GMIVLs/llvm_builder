@@ -1,7 +1,7 @@
 # llvm_builder
 
-Notes and scripts on how to build the llvm project from scratch and also
-including the lldb-mi debug adapter build from scratch as well.
+Notes and scripts on how to build LLVM from scratch and the LLDB-MI debug
+adapter from scratch as well.l.
 
 ## Building from scratch the LLVM-Project
 
