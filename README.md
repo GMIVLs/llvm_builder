@@ -20,7 +20,7 @@ respective websites. Here are the links:
 
 ## Building from scratch the LLVM-Project
 
-- Check [here](./docs/B01_building_against_custom_lldb.md
+- Check [here](./docs/B01_building_against_custom_lldb.md)
 
 ![Building process](./assets/V01.gif)
 
